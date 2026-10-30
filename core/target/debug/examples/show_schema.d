@@ -1,0 +1,1 @@
+/home/menghor/Documents/erd-spring-generator/core/target/debug/examples/show_schema: /home/menghor/Documents/erd-spring-generator/core/examples/show_schema.rs /home/menghor/Documents/erd-spring-generator/core/src/lib.rs /home/menghor/Documents/erd-spring-generator/core/src/model.rs
